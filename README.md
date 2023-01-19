@@ -1,2 +1,21 @@
 # SF-Restaurant
-Web application for ordering dishes from a restaurant, the application will be used by restaurant customers , PC application , The application will be distributed by
+Веб-приложение для заказа блюд из ресторана 
+
+### Целевая аудитория
+Приложение для клиентов ресторана всех возрастов, любителей покушать 
+
+### Платформа 
+ПК
+
+### Модель распространения
+Бесплатно, реклама в соц.сетях
+
+### Прямой конкурент
+Delivery club, Yandex.Доставка
+#### Минусы этого агрегатора 
+Направленность на обощённый вид, т.е. нет заточенности под эту определённое заведение
+
+
+[Архитектура](architecture.md)  
+[Процессы](process.md)  
+[Команда](team.md)  
